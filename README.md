@@ -10,6 +10,10 @@ npm run build
 
 npm run start
 
+then open your browser:
+
+http://localhost:8080/
+
 #### Please notice to provide csv with the exact names as columns: Latitude	Longitude
 
 #### Please provide csv with small number of rows, like 2. The enrichment service has a very low request limit.
