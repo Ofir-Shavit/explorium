@@ -1,0 +1,5 @@
+.table-container {
+    height: 80vh !important;
+    padding-top: 20px;
+    display: flex;
+}
